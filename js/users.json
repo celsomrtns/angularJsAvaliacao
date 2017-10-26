@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nome": "Celso Martins",
+        "email": "contato@celsomartins.com",
+        "estado": "PR"
+    },
+    {
+        "id": "2",
+        "nome": "Paula Dettmar",
+        "email": "paula@dettmar.com.br",
+        "estado": "PR"
+    },
+    {
+        "id": "3",
+        "nome": "João Silva",
+        "email": "joao@silva.com",
+        "estado": "RJ"
+    },
+    {
+        "id": "4",
+        "nome": "Glauber Pinheiro",
+        "email": "glauber@pinheiro.com.br",
+        "estado": "AM"
+    },
+    {
+        "id": "5",
+        "nome": "Alessandro Lima",
+        "email": "alessandro@gmail.com",
+        "estado": "ES"
+    }
+]
